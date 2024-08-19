@@ -1,0 +1,5 @@
+CustomerID,FirstName,LastName,Email,SignupDate,Country,City
+201,John,Doe,john.doe@example.com,2023-01-15,USA,New York
+202,Jane,Smith,jane.smith@example.com,2023-02-10,USA,Los Angeles
+203,Emily,Davis,emily.davis@example.com,2023-03-20,UK,London
+204,Michael,Brown,michael.brown@example.com,2023-04-25,Germany,Berlin

@@ -1,0 +1,6 @@
+OrderID,CustomerID,OrderDate,TotalAmount,PaymentMethod,ShippingCity,ShippingCountry
+1001,201,2023-07-01,150.0,Credit Card,New York,USA
+1002,202,2023-07-02,85.5,PayPal,Los Angeles,USA
+1003,203,2023-07-03,200.0,Credit Card,London,UK
+1004,204,2023-07-04,120.75,Credit Card,Berlin,Germany
+1005,201,2023-07-05,350.0,Bank Transfer,New York,USA
